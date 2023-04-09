@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faturamento", "Faturamento\Faturamento.csproj", "{A7B1E116-5E9A-4602-A84E-2A2305A4135B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma", "Soma\Soma.csproj", "{6975D2E6-26B3-4C53-A3B0-56F43AE7F157}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A7B1E116-5E9A-4602-A84E-2A2305A4135B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7B1E116-5E9A-4602-A84E-2A2305A4135B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7B1E116-5E9A-4602-A84E-2A2305A4135B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6975D2E6-26B3-4C53-A3B0-56F43AE7F157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6975D2E6-26B3-4C53-A3B0-56F43AE7F157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6975D2E6-26B3-4C53-A3B0-56F43AE7F157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6975D2E6-26B3-4C53-A3B0-56F43AE7F157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
