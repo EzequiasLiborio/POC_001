@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faturamento", "Faturamento\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma", "Soma\Soma.csproj", "{6975D2E6-26B3-4C53-A3B0-56F43AE7F157}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaturamentoMensal", "FaturamentoMensal\FaturamentoMensal.csproj", "{047F1D9D-C44A-4F05-A4A2-FAC1051D8ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversorDeString", "InversorDeString\InversorDeString.csproj", "{9CAD07BA-DEBC-4A30-BB9D-69A6FDE91BB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{6975D2E6-26B3-4C53-A3B0-56F43AE7F157}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6975D2E6-26B3-4C53-A3B0-56F43AE7F157}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6975D2E6-26B3-4C53-A3B0-56F43AE7F157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{047F1D9D-C44A-4F05-A4A2-FAC1051D8ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047F1D9D-C44A-4F05-A4A2-FAC1051D8ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047F1D9D-C44A-4F05-A4A2-FAC1051D8ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047F1D9D-C44A-4F05-A4A2-FAC1051D8ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CAD07BA-DEBC-4A30-BB9D-69A6FDE91BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAD07BA-DEBC-4A30-BB9D-69A6FDE91BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAD07BA-DEBC-4A30-BB9D-69A6FDE91BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAD07BA-DEBC-4A30-BB9D-69A6FDE91BB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
